@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese Annual Report Text Analysis"
+  short_description: "Batch annual report dictionary text analysis with Excel outputs"
+  default_prompt: "Use the Chinese annual report text analysis skill with the file paths I provide, then produce and verify an Excel result."
